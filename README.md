@@ -6,9 +6,9 @@ Really simple, it just inverts the letter depending on its position in the alpha
 
 ## 💻 Converting index
 
-To complete the table where each letter of the alphabet is mapped to its corresponding letter at the opposite end of the alphabet, you can follow this pattern:
+### To complete the table where each letter of the alphabet is mapped to its corresponding letter at the opposite end of the alphabet, you can follow this pattern:
 
-- The alphabet has 26 letters, so you pair the first letter with the last, the second with the second-to-last, and so on.
+The alphabet has 26 letters, so you pair the first letter with the last, the second with the second-to-last, and so on.
 
 Here is the complete table:
 
