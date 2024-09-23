@@ -46,3 +46,6 @@ Here is the complete table:
 | ¡    | !     |
 | ¿     | ?     |
 | ?     | ¿     |
+
+> [!NOTE]
+> Some special characters, chinese letters, arab letters, hebrew letters and other letters are not included. If they are converted, the letters doesn't change
